@@ -30,7 +30,7 @@ SO THAT I can manage my time effectively
 
 ## Links
 
-https://github.com/JonRahman/Code-Quiz
+https://jonrahman.github.io/Calendar_App/
 
-https://jonrahman.github.io/Code-Quiz/
+https://github.com/JonRahman/Calendar_App
 
