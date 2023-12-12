@@ -26,6 +26,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshot
 
+![screenshot](https://github.com/JonRahman/Calendar_App/assets/145556007/1de2b1fc-452e-4c69-b3a3-e7670417fa46)
 
 
 ## Links
